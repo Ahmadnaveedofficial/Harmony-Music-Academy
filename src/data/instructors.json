@@ -1,0 +1,174 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Ahmad Raza",
+      "slug": "ahmad-raza",
+      "designation": "Senior Guitar Instructor",
+      "specialty": "Guitar",
+      "experience": "10+ Years",
+      "image": "/instructors/ahmad-raza.jpg",
+      "bio": "Professional guitarist and educator based in Lahore with over a decade of teaching experience helping students master acoustic and electric guitar.",
+      "rating": 4.9,
+      "students": 1240,
+      "coursesTaught": ["guitar-fundamentals"],
+      "social": {
+        "instagram": "https://instagram.com/ahmadrazaguitar",
+        "youtube": "https://youtube.com/@ahmadrazaguitar"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ayesha Khan",
+      "slug": "ayesha-khan",
+      "designation": "Piano Instructor",
+      "specialty": "Piano",
+      "experience": "8+ Years",
+      "image": "/instructors/ayesha-khan.jpg",
+      "bio": "Classically trained pianist from Karachi dedicated to making piano accessible and enjoyable for students of all ages.",
+      "rating": 4.8,
+      "students": 980,
+      "coursesTaught": ["piano-for-beginners"],
+      "social": {
+        "instagram": "https://instagram.com/ayeshakhanpiano",
+        "youtube": "https://youtube.com/@ayeshakhanpiano"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sarah Ahmed",
+      "slug": "sarah-ahmed",
+      "designation": "Senior Vocal Coach",
+      "specialty": "Vocals",
+      "experience": "12+ Years",
+      "image": "/instructors/sarah-ahmed.jpg",
+      "bio": "Award-winning vocal coach based in Islamabad who has trained performers for stage, studio, and competitive vocal events across Pakistan.",
+      "rating": 4.9,
+      "students": 860,
+      "coursesTaught": ["advanced-vocal-techniques"],
+      "social": {
+        "instagram": "https://instagram.com/sarahahmedvocals",
+        "youtube": "https://youtube.com/@sarahahmedvocals"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hamza Malik",
+      "slug": "hamza-malik",
+      "designation": "Drum Instructor",
+      "specialty": "Drums",
+      "experience": "9+ Years",
+      "image": "/instructors/hamza-malik.jpg",
+      "bio": "Touring session drummer from Lahore turned educator, passionate about teaching groove, timing, and musicality behind the kit.",
+      "rating": 4.7,
+      "students": 740,
+      "coursesTaught": ["drumming-mastery"],
+      "social": {
+        "instagram": "https://instagram.com/hamzamalikdrums",
+        "youtube": "https://youtube.com/@hamzamalikdrums"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Usman Tariq",
+      "slug": "usman-tariq",
+      "designation": "Jazz Performance Instructor",
+      "specialty": "Jazz",
+      "experience": "15+ Years",
+      "image": "/instructors/usman-tariq.jpg",
+      "bio": "Professional jazz musician and bandleader from Karachi with extensive experience performing and teaching improvisation across instruments.",
+      "rating": 4.8,
+      "students": 510,
+      "coursesTaught": ["jazz-improvisation"],
+      "social": {
+        "instagram": "https://instagram.com/usmantariqjazz",
+        "youtube": "https://youtube.com/@usmantariqjazz"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Bilal Hussain",
+      "slug": "bilal-hussain",
+      "designation": "Music Production Instructor",
+      "specialty": "Music Production",
+      "experience": "11+ Years",
+      "image": "/instructors/bilal-hussain.jpg",
+      "bio": "Audio engineer and producer based in Lahore with credits across multiple genres, specializing in teaching practical, real-world production workflows.",
+      "rating": 4.9,
+      "students": 1380,
+      "coursesTaught": ["music-production-fundamentals"],
+      "social": {
+        "instagram": "https://instagram.com/bilalhussainproduction",
+        "youtube": "https://youtube.com/@bilalhussainproduction"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Fatima Noor",
+      "slug": "fatima-noor",
+      "designation": "Songwriting Instructor",
+      "specialty": "Songwriting",
+      "experience": "9+ Years",
+      "image": "/instructors/fatima-noor.jpg",
+      "bio": "Independent songwriter and lyricist from Islamabad who has written for film, independent artists, and her own award-nominated releases.",
+      "rating": 4.8,
+      "students": 670,
+      "coursesTaught": ["songwriting-essentials"],
+      "social": {
+        "instagram": "https://instagram.com/fatimanoorsongs",
+        "youtube": "https://youtube.com/@fatimanoorsongs"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Zain Abbas",
+      "slug": "zain-abbas",
+      "designation": "Electronic Music Producer",
+      "specialty": "Electronic Music Production",
+      "experience": "10+ Years",
+      "image": "/instructors/zain-abbas.jpg",
+      "bio": "Electronic music producer and sound designer from Karachi with releases on independent labels and experience teaching synthesis and beat production.",
+      "rating": 4.7,
+      "students": 920,
+      "coursesTaught": ["electronic-music-production"],
+      "social": {
+        "instagram": "https://instagram.com/zainabbasmusic",
+        "youtube": "https://youtube.com/@zainabbasmusic"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Mariam Siddiqui",
+      "slug": "mariam-siddiqui",
+      "designation": "Music History Instructor",
+      "specialty": "Music History",
+      "experience": "13+ Years",
+      "image": "/instructors/mariam-siddiqui.jpg",
+      "bio": "Musicologist and lecturer from Lahore specializing in classical music history, with a passion for making historical context accessible to modern learners.",
+      "rating": 4.6,
+      "students": 430,
+      "coursesTaught": ["classical-music-history"],
+      "social": {
+        "instagram": "https://instagram.com/mariamsiddiquimusic",
+        "youtube": "https://youtube.com/@mariamsiddiquimusic"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Imran Sheikh",
+      "slug": "imran-sheikh",
+      "designation": "Blues Guitar Instructor",
+      "specialty": "Blues Guitar",
+      "experience": "14+ Years",
+      "image": "/instructors/imran-sheikh.jpg",
+      "bio": "Blues guitarist from Karachi with decades of stage experience, dedicated to passing on authentic technique and feel to the next generation of players.",
+      "rating": 4.8,
+      "students": 590,
+      "coursesTaught": ["blues-guitar-techniques"],
+      "social": {
+        "instagram": "https://instagram.com/imransheikhblues",
+        "youtube": "https://youtube.com/@imransheikhblues"
+      }
+    }
+  ]
+}

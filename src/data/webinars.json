@@ -1,0 +1,214 @@
+{
+  "webinars": [
+    {
+      "id": 1,
+      "title": "Mastering Guitar Chords in 30 Days",
+      "slug": "mastering-guitar-chords-in-30-days",
+      "shortDescription": "A fast-track guide to building chord fluency on guitar.",
+      "description": "Join this live session to learn a structured 30-day approach to mastering essential open chords, barre chords, and smooth transitions between them.",
+      "category": "Guitar",
+      "date": "2026-07-05",
+      "time": "6:00 PM",
+      "timezone": "PKT",
+      "duration": "60 Minutes",
+      "mode": "Online",
+      "price": 0,
+      "isFree": true,
+      "seatsAvailable": 150,
+      "seatsBooked": 92,
+      "instructor": {
+        "name": "Ahmad Raza",
+        "designation": "Senior Guitar Instructor",
+        "image": "/instructors/ahmad-raza.jpg"
+      },
+      "image": "/webinars/guitar-chords.jpg",
+      "isFeatured": true,
+      "topics": [
+        "Open Chords",
+        "Barre Chords",
+        "Chord Transitions",
+        "Practice Routine"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Piano Sight-Reading Made Simple",
+      "slug": "piano-sight-reading-made-simple",
+      "shortDescription": "Learn practical techniques to read sheet music with confidence.",
+      "description": "This webinar breaks down sight-reading into manageable steps, helping beginner and intermediate pianists read music faster and more accurately.",
+      "category": "Piano",
+      "date": "2026-07-09",
+      "time": "5:00 PM",
+      "timezone": "PKT",
+      "duration": "45 Minutes",
+      "mode": "Online",
+      "price": 0,
+      "isFree": true,
+      "seatsAvailable": 120,
+      "seatsBooked": 67,
+      "instructor": {
+        "name": "Ayesha Khan",
+        "designation": "Piano Instructor",
+        "image": "/instructors/ayesha-khan.jpg"
+      },
+      "image": "/webinars/piano-sight-reading.jpg",
+      "isFeatured": false,
+      "topics": [
+        "Note Recognition",
+        "Rhythm Patterns",
+        "Hand Independence",
+        "Practice Tips"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Vocal Warm-Ups for Singers",
+      "slug": "vocal-warm-ups-for-singers",
+      "shortDescription": "Essential warm-up routines to protect and improve your voice.",
+      "description": "Learn a complete vocal warm-up routine used by professional singers to improve range, tone, and vocal health before performances or practice sessions.",
+      "category": "Vocals",
+      "date": "2026-07-12",
+      "time": "7:00 PM",
+      "timezone": "PKT",
+      "duration": "50 Minutes",
+      "mode": "Online",
+      "price": 999,
+      "isFree": false,
+      "seatsAvailable": 100,
+      "seatsBooked": 81,
+      "instructor": {
+        "name": "Sarah Ahmed",
+        "designation": "Senior Vocal Coach",
+        "image": "/instructors/sarah-ahmed.jpg"
+      },
+      "image": "/webinars/vocal-warmups.jpg",
+      "isFeatured": true,
+      "topics": [
+        "Breathing Exercises",
+        "Pitch Warm-Ups",
+        "Vocal Health",
+        "Range Extension"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Drum Grooves That Make You Sound Pro",
+      "slug": "drum-grooves-that-make-you-sound-pro",
+      "shortDescription": "Practical grooves and fills to elevate your drumming instantly.",
+      "description": "Discover the grooves and fill patterns used across pop, funk, and rock styles, and learn how to apply them to make your playing sound more professional.",
+      "category": "Drums",
+      "date": "2026-07-16",
+      "time": "6:30 PM",
+      "timezone": "PKT",
+      "duration": "60 Minutes",
+      "mode": "Online",
+      "price": 0,
+      "isFree": true,
+      "seatsAvailable": 90,
+      "seatsBooked": 40,
+      "instructor": {
+        "name": "Hamza Malik",
+        "designation": "Drum Instructor",
+        "image": "/instructors/hamza-malik.jpg"
+      },
+      "image": "/webinars/drum-grooves.jpg",
+      "isFeatured": false,
+      "topics": [
+        "Pop Grooves",
+        "Funk Patterns",
+        "Fill Techniques",
+        "Playing with a Click"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Jazz Improvisation",
+      "slug": "introduction-to-jazz-improvisation",
+      "shortDescription": "A beginner-friendly look into the world of jazz soloing.",
+      "description": "Get an approachable introduction to jazz improvisation, covering basic scales, common chord progressions, and how to start building your own solos.",
+      "category": "Jazz",
+      "date": "2026-07-19",
+      "time": "7:30 PM",
+      "timezone": "PKT",
+      "duration": "55 Minutes",
+      "mode": "Online",
+      "price": 1499,
+      "isFree": false,
+      "seatsAvailable": 80,
+      "seatsBooked": 35,
+      "instructor": {
+        "name": "Usman Tariq",
+        "designation": "Jazz Performance Instructor",
+        "image": "/instructors/usman-tariq.jpg"
+      },
+      "image": "/webinars/jazz-improv.jpg",
+      "isFeatured": false,
+      "topics": [
+        "Jazz Scales",
+        "ii-V-I Progression",
+        "Building a Solo",
+        "Listening Recommendations"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Home Studio Mixing Essentials",
+      "slug": "home-studio-mixing-essentials",
+      "shortDescription": "Learn how to get a clean, professional mix from home.",
+      "description": "A practical session covering EQ, compression, and levels to help you mix your home recordings with more clarity and confidence using any DAW.",
+      "category": "Music Production",
+      "date": "2026-07-23",
+      "time": "6:00 PM",
+      "timezone": "PKT",
+      "duration": "65 Minutes",
+      "mode": "Online",
+      "price": 0,
+      "isFree": true,
+      "seatsAvailable": 200,
+      "seatsBooked": 158,
+      "instructor": {
+        "name": "Bilal Hussain",
+        "designation": "Music Production Instructor",
+        "image": "/instructors/bilal-hussain.jpg"
+      },
+      "image": "/webinars/mixing-essentials.jpg",
+      "isFeatured": true,
+      "topics": [
+        "EQ Basics",
+        "Compression",
+        "Gain Staging",
+        "Common Mixing Mistakes"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "From Idea to Song: A Songwriting Workshop",
+      "slug": "from-idea-to-song-songwriting-workshop",
+      "shortDescription": "Turn a simple idea into a complete song structure.",
+      "description": "Walk through the songwriting process step by step, from capturing an initial idea to shaping it into verses, a chorus, and a finished song structure.",
+      "category": "Songwriting",
+      "date": "2026-07-27",
+      "time": "5:30 PM",
+      "timezone": "PKT",
+      "duration": "50 Minutes",
+      "mode": "Online",
+      "price": 999,
+      "isFree": false,
+      "seatsAvailable": 100,
+      "seatsBooked": 54,
+      "instructor": {
+        "name": "Fatima Noor",
+        "designation": "Songwriting Instructor",
+        "image": "/instructors/fatima-noor.jpg"
+      },
+      "image": "/webinars/songwriting-workshop.jpg",
+      "isFeatured": false,
+      "topics": [
+        "Finding Ideas",
+        "Song Structure",
+        "Writing Lyrics",
+        "Melody Basics"
+      ]
+    }
+  ]
+}

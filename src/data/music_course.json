@@ -1,0 +1,474 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "shortDescription": "Learn guitar from scratch and build a strong musical foundation.",
+      "description": "Master chords, scales, rhythm techniques, strumming patterns, fingerstyle playing, and song performance through a structured learning path designed for beginners.",
+      "price": 8999,
+      "discountPrice": 6999,
+      "instructor": {
+        "name": "Ahmad Raza",
+        "designation": "Senior Guitar Instructor",
+        "experience": "10+ Years",
+        "image": "/instructors/ahmad-raza.jpg",
+        "bio": "Professional guitarist and educator based in Lahore with over a decade of teaching experience helping students master acoustic and electric guitar."
+      },
+      "duration": "12 Weeks",
+      "lessons": 36,
+      "level": "Beginner",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 1240,
+      "rating": 4.9,
+      "reviews": 320,
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg",
+      "skills": [
+        "Chord Progressions",
+        "Fingerstyle",
+        "Strumming Techniques",
+        "Music Reading",
+        "Performance Skills"
+      ],
+      "curriculum": [
+        {
+          "module": "Introduction to Guitar",
+          "topics": ["Parts of Guitar", "Tuning", "Basic Posture"]
+        },
+        {
+          "module": "Chords & Rhythm",
+          "topics": ["Major Chords", "Minor Chords", "Strumming Patterns"]
+        },
+        {
+          "module": "Performance",
+          "topics": ["Playing Songs", "Stage Confidence", "Live Performance"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "shortDescription": "Start your musical journey with foundational piano skills.",
+      "description": "Build a strong foundation in piano playing with structured lessons covering posture, note reading, hand coordination, basic chords, and simple song performance.",
+      "price": 9999,
+      "discountPrice": 7999,
+      "instructor": {
+        "name": "Ayesha Khan",
+        "designation": "Piano Instructor",
+        "experience": "8+ Years",
+        "image": "/instructors/ayesha-khan.jpg",
+        "bio": "Classically trained pianist from Karachi dedicated to making piano accessible and enjoyable for students of all ages."
+      },
+      "duration": "10 Weeks",
+      "lessons": 30,
+      "level": "Beginner",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 980,
+      "rating": 4.8,
+      "reviews": 245,
+      "isFeatured": false,
+      "image": "/courses/piano.jpg",
+      "skills": [
+        "Note Reading",
+        "Hand Coordination",
+        "Basic Chords",
+        "Sight Reading",
+        "Simple Song Playing"
+      ],
+      "curriculum": [
+        {
+          "module": "Getting Started",
+          "topics": ["Piano Posture", "Keyboard Layout", "Note Names"]
+        },
+        {
+          "module": "Reading Music",
+          "topics": ["Treble Clef", "Bass Clef", "Rhythm Basics"]
+        },
+        {
+          "module": "Playing Songs",
+          "topics": ["Simple Melodies", "Two-Hand Coordination", "Basic Chords"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Advanced Vocal Techniques",
+      "slug": "advanced-vocal-techniques",
+      "shortDescription": "Enhance your singing with advanced vocal techniques.",
+      "description": "Refine your vocal performance with advanced breathing techniques, pitch control, vocal runs, tone shaping, and stage presence for intermediate to advanced singers.",
+      "price": 10999,
+      "discountPrice": 8999,
+      "instructor": {
+        "name": "Sarah Ahmed",
+        "designation": "Senior Vocal Coach",
+        "experience": "12+ Years",
+        "image": "/instructors/sarah-ahmed.jpg",
+        "bio": "Award-winning vocal coach based in Islamabad who has trained performers for stage, studio, and competitive vocal events across Pakistan."
+      },
+      "duration": "14 Weeks",
+      "lessons": 42,
+      "level": "Intermediate",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 860,
+      "rating": 4.9,
+      "reviews": 198,
+      "isFeatured": true,
+      "image": "/courses/vocalist.jpg",
+      "skills": [
+        "Breath Control",
+        "Pitch Accuracy",
+        "Vocal Runs",
+        "Tone Shaping",
+        "Stage Presence"
+      ],
+      "curriculum": [
+        {
+          "module": "Vocal Foundations",
+          "topics": ["Breathing Techniques", "Warm-ups", "Posture for Singing"]
+        },
+        {
+          "module": "Advanced Control",
+          "topics": ["Pitch Accuracy", "Vocal Runs", "Dynamic Control"]
+        },
+        {
+          "module": "Performance",
+          "topics": ["Microphone Technique", "Stage Presence", "Live Performance"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Drumming Mastery",
+      "slug": "drumming-mastery",
+      "shortDescription": "Master the drums with a course covering all skill levels.",
+      "description": "Develop solid rhythm, coordination, and groove with lessons on drum kit setup, beats, fills, and playing along with real songs across multiple genres.",
+      "price": 11999,
+      "discountPrice": 9999,
+      "instructor": {
+        "name": "Hamza Malik",
+        "designation": "Drum Instructor",
+        "experience": "9+ Years",
+        "image": "/instructors/hamza-malik.jpg",
+        "bio": "Touring session drummer from Lahore turned educator, passionate about teaching groove, timing, and musicality behind the kit."
+      },
+      "duration": "12 Weeks",
+      "lessons": 36,
+      "level": "All Levels",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 740,
+      "rating": 4.7,
+      "reviews": 156,
+      "isFeatured": false,
+      "image": "/courses/drumming.jpg",
+      "skills": [
+        "Rhythm & Timing",
+        "Drum Fills",
+        "Kick & Snare Coordination",
+        "Genre Grooves",
+        "Playing with a Band"
+      ],
+      "curriculum": [
+        {
+          "module": "Drum Basics",
+          "topics": ["Kit Setup", "Grip & Posture", "Basic Beats"]
+        },
+        {
+          "module": "Building Groove",
+          "topics": ["Fills", "Hi-Hat Patterns", "Genre Styles"]
+        },
+        {
+          "module": "Playing with Others",
+          "topics": ["Following a Click", "Band Dynamics", "Live Playing"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "shortDescription": "Learn the art of jazz improvisation for all levels.",
+      "description": "Explore jazz theory, scales, chord-scale relationships, and phrasing to develop the confidence and vocabulary needed for expressive improvisation.",
+      "price": 12999,
+      "discountPrice": 10999,
+      "instructor": {
+        "name": "Usman Tariq",
+        "designation": "Jazz Performance Instructor",
+        "experience": "15+ Years",
+        "image": "/instructors/usman-tariq.jpg",
+        "bio": "Professional jazz musician and bandleader from Karachi with extensive experience performing and teaching improvisation across instruments."
+      },
+      "duration": "16 Weeks",
+      "lessons": 48,
+      "level": "Intermediate",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 510,
+      "rating": 4.8,
+      "reviews": 132,
+      "isFeatured": false,
+      "image": "/courses/jazz.jpg",
+      "skills": [
+        "Jazz Theory",
+        "Scales & Modes",
+        "Chord-Scale Relationships",
+        "Phrasing",
+        "Improvisation"
+      ],
+      "curriculum": [
+        {
+          "module": "Jazz Foundations",
+          "topics": ["Jazz Harmony", "Common Progressions", "Listening Skills"]
+        },
+        {
+          "module": "Improvisation Tools",
+          "topics": ["Scales & Modes", "Chord-Scale Theory", "Licks & Phrases"]
+        },
+        {
+          "module": "Putting It Together",
+          "topics": ["Soloing over Standards", "Trading Phrases", "Group Improvisation"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Music Production Fundamentals",
+      "slug": "music-production-fundamentals",
+      "shortDescription": "Dive into the basics of sound engineering and mixing.",
+      "description": "Get hands-on with a DAW and learn the fundamentals of recording, editing, mixing, and arranging tracks to produce polished, professional-sounding music.",
+      "price": 13999,
+      "discountPrice": 11999,
+      "instructor": {
+        "name": "Bilal Hussain",
+        "designation": "Music Production Instructor",
+        "experience": "11+ Years",
+        "image": "/instructors/bilal-hussain.jpg",
+        "bio": "Audio engineer and producer based in Lahore with credits across multiple genres, specializing in teaching practical, real-world production workflows."
+      },
+      "duration": "14 Weeks",
+      "lessons": 40,
+      "level": "Beginner",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 1380,
+      "rating": 4.9,
+      "reviews": 410,
+      "isFeatured": true,
+      "image": "/courses/music-prod.jpg",
+      "skills": [
+        "DAW Workflow",
+        "Recording Basics",
+        "Mixing Fundamentals",
+        "Arrangement",
+        "Audio Editing"
+      ],
+      "curriculum": [
+        {
+          "module": "DAW Essentials",
+          "topics": ["Interface Overview", "Tracks & Routing", "Recording Audio"]
+        },
+        {
+          "module": "Mixing Basics",
+          "topics": ["EQ", "Compression", "Levels & Panning"]
+        },
+        {
+          "module": "Finishing a Track",
+          "topics": ["Arrangement", "Basic Mastering", "Exporting"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Songwriting Essentials",
+      "slug": "songwriting-essentials",
+      "shortDescription": "Learn the essentials of songwriting to express your creativity.",
+      "description": "Discover how to craft compelling lyrics, build strong melodies, and structure songs that connect with listeners, from first idea to finished demo.",
+      "price": 14999,
+      "discountPrice": 12999,
+      "instructor": {
+        "name": "Fatima Noor",
+        "designation": "Songwriting Instructor",
+        "experience": "9+ Years",
+        "image": "/instructors/fatima-noor.jpg",
+        "bio": "Independent songwriter and lyricist from Islamabad who has written for film, independent artists, and her own award-nominated releases."
+      },
+      "duration": "10 Weeks",
+      "lessons": 28,
+      "level": "All Levels",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 670,
+      "rating": 4.8,
+      "reviews": 174,
+      "isFeatured": true,
+      "image": "/courses/song-writing.jpg",
+      "skills": [
+        "Lyric Writing",
+        "Melody Writing",
+        "Song Structure",
+        "Storytelling",
+        "Demo Production"
+      ],
+      "curriculum": [
+        {
+          "module": "Foundations of a Song",
+          "topics": ["Song Structure", "Finding Ideas", "Hooks & Themes"]
+        },
+        {
+          "module": "Lyrics & Melody",
+          "topics": ["Lyric Writing", "Melodic Phrasing", "Rhyme & Rhythm"]
+        },
+        {
+          "module": "Finishing Songs",
+          "topics": ["Arranging a Song", "Demo Recording", "Getting Feedback"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "shortDescription": "Create compelling electronic music from beginner to advanced.",
+      "description": "Learn sound design, synthesis, beat-making, and arrangement techniques used to produce modern electronic music across multiple subgenres.",
+      "price": 15999,
+      "discountPrice": 13999,
+      "instructor": {
+        "name": "Zain Abbas",
+        "designation": "Electronic Music Producer",
+        "experience": "10+ Years",
+        "image": "/instructors/zain-abbas.jpg",
+        "bio": "Electronic music producer and sound designer from Karachi with releases on independent labels and experience teaching synthesis and beat production."
+      },
+      "duration": "16 Weeks",
+      "lessons": 44,
+      "level": "All Levels",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 920,
+      "rating": 4.7,
+      "reviews": 211,
+      "isFeatured": true,
+      "image": "/courses/music-prod.jpg",
+      "skills": [
+        "Sound Design",
+        "Synthesis",
+        "Beat Making",
+        "Arrangement",
+        "Mixing for Electronic Music"
+      ],
+      "curriculum": [
+        {
+          "module": "Sound Design Basics",
+          "topics": ["Synthesis Types", "Sampling", "Sound Shaping"]
+        },
+        {
+          "module": "Beat Making",
+          "topics": ["Drum Programming", "Groove & Swing", "Layering Sounds"]
+        },
+        {
+          "module": "Track Building",
+          "topics": ["Arrangement", "Automation", "Mixdown for Electronic Music"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Classical Music History",
+      "slug": "classical-music-history",
+      "shortDescription": "Explore the rich history of classical music.",
+      "description": "Trace the evolution of classical music from its early origins through the Baroque, Classical, and Romantic eras to its influence on music today.",
+      "price": 16999,
+      "discountPrice": 14999,
+      "instructor": {
+        "name": "Mariam Siddiqui",
+        "designation": "Music History Instructor",
+        "experience": "13+ Years",
+        "image": "/instructors/mariam-siddiqui.jpg",
+        "bio": "Musicologist and lecturer from Lahore specializing in classical music history, with a passion for making historical context accessible to modern learners."
+      },
+      "duration": "8 Weeks",
+      "lessons": 24,
+      "level": "All Levels",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 430,
+      "rating": 4.6,
+      "reviews": 98,
+      "isFeatured": false,
+      "image": "/courses/classical-music.jpg",
+      "skills": [
+        "Music History",
+        "Era Identification",
+        "Composer Studies",
+        "Critical Listening",
+        "Musical Context"
+      ],
+      "curriculum": [
+        {
+          "module": "Early & Baroque Eras",
+          "topics": ["Origins of Western Music", "Baroque Style", "Key Composers"]
+        },
+        {
+          "module": "Classical & Romantic Eras",
+          "topics": ["Classical Period", "Romantic Period", "Major Works"]
+        },
+        {
+          "module": "Legacy & Influence",
+          "topics": ["Influence on Modern Music", "Listening Analysis", "Final Review"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Blues Guitar Techniques",
+      "slug": "blues-guitar-techniques",
+      "shortDescription": "Add soul and depth to your playing with blues guitar.",
+      "description": "Learn the techniques, scales, and phrasing that define blues guitar, including bending, vibrato, call-and-response, and classic blues progressions.",
+      "price": 17999,
+      "discountPrice": 15999,
+      "instructor": {
+        "name": "Imran Sheikh",
+        "designation": "Blues Guitar Instructor",
+        "experience": "14+ Years",
+        "image": "/instructors/imran-sheikh.jpg",
+        "bio": "Blues guitarist from Karachi with decades of stage experience, dedicated to passing on authentic technique and feel to the next generation of players."
+      },
+      "duration": "10 Weeks",
+      "lessons": 30,
+      "level": "Intermediate",
+      "language": "Urdu / English",
+      "certificate": true,
+      "students": 590,
+      "rating": 4.8,
+      "reviews": 142,
+      "isFeatured": true,
+      "image": "/courses/blues.jpg",
+      "skills": [
+        "Blues Scales",
+        "String Bending",
+        "Vibrato",
+        "Call & Response",
+        "12-Bar Blues"
+      ],
+      "curriculum": [
+        {
+          "module": "Blues Foundations",
+          "topics": ["12-Bar Blues", "Blues Scale", "Shuffle Rhythm"]
+        },
+        {
+          "module": "Expressive Techniques",
+          "topics": ["String Bending", "Vibrato", "Slides"]
+        },
+        {
+          "module": "Playing the Blues",
+          "topics": ["Call & Response", "Soloing over Blues", "Classic Blues Songs"]
+        }
+      ]
+    }
+  ]
+}
