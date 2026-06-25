@@ -4,11 +4,10 @@
 
 A modern, responsive music education platform built with **Next.js 16**, **TypeScript**, and **Tailwind CSS** — designed to help students explore and master their musical skills through structured courses, expert instructors, and live webinars.
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/)
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
 
 **[🌐 Live Demo](https://harmony-music-academy-five.vercel.app/)**
 
